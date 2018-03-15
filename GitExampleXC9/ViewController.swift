@@ -14,7 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("Some changes made in Jim's branch.")
+        print("Some changes made in Jim's branch - now master.")
     }
 
     override var representedObject: Any? {
